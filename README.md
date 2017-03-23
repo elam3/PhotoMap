@@ -1,5 +1,10 @@
 ## Starter Project for Photo Map Exercise (Swift)
-![Image](http://i.imgur.com/WIwqNtn.gif)
+
+Week 8 Lab : Photo Map
+
+Lum Situ, Robert Mitchell, Edison Lam
+
+![Image](http://i.imgur.com/xiB92Od.gif)
 
 - Connects with Foursquare API
 - Implements `LocationsViewController`
